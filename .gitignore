@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*.pth
+*.pt
+*.ckpt
+*.nii
+*.nii.gz
+runs/
+cache/
+.pytest_cache/
+.idea/
+.vscode/
+.DS_Store
+data3d/
+paper_extracted.txt

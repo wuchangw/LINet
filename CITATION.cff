@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use LINet, please cite the accompanying manuscript."
+title: "LINet: A Lesion-Aware Interactive Network for Whole-Body PET/CT Tumor Segmentation"
+type: software
+authors:
+  - family-names: Wu
+    given-names: Changwei
+  - family-names: Chen
+    given-names: Yifei
+  - family-names: Li
+    given-names: Xiangshuang
+  - family-names: Li
+    given-names: Chenke
+  - family-names: Wu
+    given-names: Beining
+  - family-names: Liu
+    given-names: Mingxuan
+  - family-names: Chen
+    given-names: Xiaxuan
+  - family-names: Qin
+    given-names: Feiwei
+  - family-names: Tian
+    given-names: Qiyuan
