@@ -23,6 +23,20 @@ Training uses Dice + BCE with deep supervision and the physical-volume- and
 prompt-aware Tversky (PVP-Tversky) objective. Prompt sampling is lesion-aware;
 all annotated lesions in the sampled patch remain foreground supervision.
 
+## Visual overview
+
+### LINet architecture
+
+![LINet architecture](model.png)
+
+### Segmentation examples
+
+![PET/CT lesion segmentation examples](seg_viz.png)
+
+### Accuracy, boundary quality, and model size
+
+![Accuracy-boundary-parameter comparison](bubble.png)
+
 ## Paper results
 
 The following are the results reported in `TIP_LINet.pdf`, evaluated on the
